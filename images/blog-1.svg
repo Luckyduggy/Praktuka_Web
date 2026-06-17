@@ -1,0 +1,29 @@
+<svg width="400" height="260" viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="260" fill="#EAF3EA"/>
+  <circle cx="330" cy="50" r="50" fill="#DDEEDD"/>
+  <rect x="0" y="200" width="400" height="60" fill="#CFEFD0"/>
+
+  <!-- tree -->
+  <rect x="55" y="120" width="10" height="80" fill="#8C6A4E"/>
+  <circle cx="60" cy="100" r="42" fill="#4CAF50"/>
+  <circle cx="30" cy="120" r="30" fill="#5FBB62"/>
+  <circle cx="90" cy="120" r="30" fill="#5FBB62"/>
+
+  <!-- bench -->
+  <rect x="150" y="195" width="140" height="10" rx="3" fill="#22303D"/>
+  <rect x="160" y="208" width="10" height="22" fill="#22303D"/>
+  <rect x="270" y="208" width="10" height="22" fill="#22303D"/>
+
+  <!-- person sitting -->
+  <g>
+    <rect x="195" y="155" width="50" height="48" rx="18" fill="#4CAF50"/>
+    <rect x="190" y="195" width="22" height="18" rx="8" fill="#22303D"/>
+    <rect x="226" y="195" width="22" height="18" rx="8" fill="#2C3E4F"/>
+    <circle cx="220" cy="135" r="20" fill="#F2C29A"/>
+    <path d="M201 134 C199 114, 218 102, 235 109 C249 115, 250 128, 246 137 C242 122, 228 116, 214 119 C205 121, 202 128, 201 134 Z" fill="#22303D"/>
+    <rect x="205" y="165" width="22" height="30" rx="5" fill="#FFFFFF"/>
+  </g>
+
+  <circle cx="345" cy="150" r="6" fill="#4CAF50" opacity="0.6"/>
+  <circle cx="360" cy="190" r="4" fill="#4CAF50" opacity="0.5"/>
+</svg>
